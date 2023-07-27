@@ -1,0 +1,92 @@
+.support {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.support-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.support-content {
+  flex: 1;
+}
+
+.img1 {
+  height: 300px; /* Adjust the height as needed */
+  width: 300px; /* Adjust the width as needed */
+  background-image: url("C:\Users\ADMIN\Documents\mini_proj\src\supportgif.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Header Styles */
+
+.header {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.header-content {
+  max-width: 800px;
+  width: 100%;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.slogan {
+  font-size: 16px;
+  color: #420000;
+  margin-bottom: 10px;
+}
+
+/* Support Container Styles */
+
+.support-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.support-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.support-text {
+  margin-bottom: 20px;
+}
+
+.support-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.support-list li {
+  margin-bottom: 10px;
+}
+
+/* Footer Styles */
+
+.footer {
+  background-color: #f8f8f8;
+  padding: 20px;
+  margin-top: 200px;
+  text-align: center;
+  font-size: 14px;
+  color: #888;
+}
