@@ -1,0 +1,36 @@
+
+/* Header Styles */
+.header {
+  background-color: #e5d4d4;
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.slogan {
+  font-size: 16px;
+  color: #420000;
+  margin-bottom: 10px;
+}
+
+
+/* Footer Styles */
+.footer {
+  background-color: #f8f8f8;
+  padding: 20px;
+  margin-bottom: 100px; 
+  text-align: center;
+  font-size: 14px;
+  color: #888;
+}
+
+.para{
+  margin-left: 70px;
+  margin-right: 50px;
+  margin-top: 60px;
+  font-size: large;
+}
